@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CourseList Component should render the CourseList Component 1`] = `ShallowWrapper {}`;
